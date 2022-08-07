@@ -1,5 +1,6 @@
 This is a list for Submitted August Cohort Class Projects...
 
 S.No.	Student Details			Projects Description
+
 1	Okoa Benson			Face detection App
 2.	Njuguna Mike			Online store checkout system
